@@ -165,3 +165,4 @@ touch footer.png
 cp footer.png images
 touch footer.jpeg
 cp footer.jpeg images
+cd images/
