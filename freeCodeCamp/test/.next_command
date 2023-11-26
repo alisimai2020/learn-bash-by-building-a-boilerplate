@@ -54,3 +54,4 @@ print freeCodeCamp
 echo freeCodeCamp
 pwd
 ls --color=auto
+cd test/
