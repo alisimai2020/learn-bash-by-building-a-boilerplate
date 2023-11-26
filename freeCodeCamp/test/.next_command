@@ -176,3 +176,4 @@ ls --color=auto
 touch roboto.font
 ls --color=auto
 mv roboto.font roboto.woff
+ls --color=auto
