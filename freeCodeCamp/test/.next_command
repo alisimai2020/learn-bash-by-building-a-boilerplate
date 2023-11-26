@@ -89,3 +89,4 @@ ls --color=auto flag
 l
 -l
 ls --color=auto -l
+cd has
