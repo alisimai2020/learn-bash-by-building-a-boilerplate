@@ -98,3 +98,5 @@ more
 more LICENSE-MIT
 clear
 ls --color=auto
+cd scr
+cd src
