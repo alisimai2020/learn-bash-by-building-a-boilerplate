@@ -105,3 +105,6 @@ ls --color=auto
 more
 more index.js
 cd ..
+ls --color=auto
+cd .
+cd ..
