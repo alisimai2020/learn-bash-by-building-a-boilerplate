@@ -179,3 +179,5 @@ mv roboto.font roboto.woff
 ls --color=auto
 touch lato.font
 mv lato.font lato.ttf
+touch menlo.font
+mv menlo.font menlo.otf
